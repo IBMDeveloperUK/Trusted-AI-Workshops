@@ -7,9 +7,9 @@ AI can embed human and societal bias and be then deployed at scale. Many algorit
 AI Fairness 360 (AIF360) is an extensible, open source toolkit for measuring, understanding, and removing AI bias. It contains the most widely used bias metrics, bias mitigation algorithms, and metric explainers from the top AI fairness researchers across industry & academia.
 
 You will learn:
-how to measure bias in your data sets & models
-how to apply the fairness algorithms to reduce bias
-how to apply a practical use case of bias measurement & mitigation
+* how to measure bias in your data sets & models
+* how to apply the fairness algorithms to reduce bias
+* how to apply a practical use case of bias measurement & mitigation
 
 ## Getting Started with Jupyter Notebooks
 
