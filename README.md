@@ -50,19 +50,29 @@ In this workshop we will use IBM Watson Studio to run a notebook. For this you w
 
 ![](https://github.com/IBMDeveloperUK/python-geopandas-workshop/blob/master/images/notebook.png)
 
-- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/geopandas-workshop/blob/master/notebooks/geopandas-workshop.ipynb`
-- Select the custom runtime enviroment that you created and click `Create Notebook`.
+- Choose new notebook `From URL`. Give your notebook a name and copy the URL `https://github.com/IBMDeveloperUK/AIF360-workshop/blob/master/notebooks/aif360-workshop.ipynb`
+- Select the `Default Python 3.6 XS` enviroment and click `Create Notebook`.
 - The notebook will load.
 
 You are now ready to follow along with the workshop in the notebook!
 
 ## Anaconda local install
 
+Optional local install on Mac:
+
+Install [Anaconda](https://docs.anaconda.com/anaconda/install/)
+
+Open terminal and create a new environment:
+
 `> conda create --name aif360 python=3.7`
 
 `> conda activate aif360`
 
+Install aif360:
+
 `> pip install 'aif360[LFR,LIME,notebooks]==0.3.0rc0'`
+
+Add datasets to aif360:
 
 Change to ~/Downloads/tutorial_files and run `python copy_datasets.py` to copy files into `/Applications/anaconda3/envs/aif360/lib/python3.7/site-packages/aif360/data/`.
 
@@ -70,6 +80,9 @@ For all functionality: `pip install 'aif360[all]==0.3.0rc0'`
 
 Just in case: `> conda env remove --name aif360`
 
+Add kernel to Jupyter notebooks:
+
 `> python -m ipykernel install --user --name aif360 --display-name "Python37 (aif360)"`
 
+Start notebooks: 
 `> jupyter notebook`
