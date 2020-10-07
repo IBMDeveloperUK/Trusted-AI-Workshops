@@ -1,5 +1,7 @@
 # Removing Unfair Bias in Machine Learning
 
+# [Get a free IBM Cloud account](https://cloud.ibm.com/registration?cm_mmc=Inpersondirected-_-Audience+Developer_Developer+Conversation-_-WW_WW-_-Oct2020-codethinkukireland-eventid-5f05ee61790889521154c5d9-global-devadvgrp-london-franchise-conference-london_ov75915&cm_mmca1=000039JL&cm_mmca2=10010797&eventid=5f05ee61790889521154c5d9)
+
 ## Details
 
 AI can embed human and societal bias and be then deployed at scale. Many algorithms are now being reexamined due to illegal bias. So how do you remove bias & discrimination in the machine learning pipeline? In this workshop you will learn the debiasing techniques that can be implemented by using the open source toolkit AI Fairness 360.
