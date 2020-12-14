@@ -17,4 +17,43 @@ Then go to the session
 
 * [Beyond Accuracy: Fairness in Machine Learning](https://github.com/IBMDeveloperUK/Trusted-AI-Workshops/blob/master/beyond-accuracy.md)
     
+## Resources
 
+### Documentation
+
+#### AI Fairness 360
+
+* [GitHub repo](https://github.com/Trusted-AI/AIF360)
+* [Demo](https://aif360.mybluemix.net/)
+* [API documentation](https://aif360.readthedocs.io/en/latest/)
+
+#### AI Explainability 360
+
+* [GitHub repo](https://github.com/Trusted-AI/AIX360)
+* [Demo](http://aix360.mybluemix.net/)
+* [API documentation](https://aix360.readthedocs.io/en/latest/)
+
+#### AI Factsheets 360
+
+#### Learn more
+
+* On the UK team page 
+    * https://ibmdeveloperuk.github.io/
+
+* On our crowdcast and twitch channels, where we host regular workshops and events
+    * https://www.crowdcast.io/ibmdeveloper
+    * https://www.crowdcast.io/ibmdevelopereurope
+    * https://www.twitch.tv/ibmdeveloper
+
+* From our [developer site](https://developer.ibm.com/) where you can find tutorials, code examples, articles and more
+    * [List of videos on Trusted AI](https://aifs360.mybluemix.net/resources/videos)
+    * [AI Ethics at IBM](https://www.ibm.com/artificial-intelligence/ethics)
+    * [Trusted AI at IBM Research](https://www.research.ibm.com/artificial-intelligence/trusted-ai/)
+    * [Trusted AI at the Linux Foundation](https://lfai.foundation/projects/trusted-ai/)
+
+#### Contact me 
+
+If you need help, have suggestions or want to talk more about fair and explainable AI
+
+* [Twitter](https://twitter.com/MargrietGr)
+* [LinkedIn](https://www.linkedin.com/in/margrietgroenendijk/)
