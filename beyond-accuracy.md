@@ -8,4 +8,8 @@ Follow along if you want to know more about the fairness concepts and how to exp
 
 ## Getting started
 
-If you do not have a IBM Cloud account yet, start by following these instructions. Else go straight to this section to create a Watson Studio service.
+If you do not have a IBM Cloud account yet, start by following [these instructions](https://github.com/IBMDeveloperUK/Trusted-AI-Workshops/blob/master/watson-studio-instructions.md). Else go straight to this section to create a Watson Studio service.
+
+To load the notebook for this workshop, select From URL, give the notebook a name, paste the below link in the Notebook URL field and then click the Create button at the bottom right. You can leave the runtime as the default.
+
+`https://raw.githubusercontent.com/MargrietGroenendijk/jupyter-notebooks/main/notebooks/dig-dev-conf-2020-beyond-accuracy.ipynb`
