@@ -40,6 +40,7 @@ Then go to the session
 * On the UK team page 
     * https://ibmdeveloperuk.github.io/
 
+* From the weekly [Data Science Lunch & Learn](https://github.com/IBMDeveloperUK/Data-Science-Lunch-and-Learn) every Monday
 * On our crowdcast and twitch channels, where we host regular workshops and events
     * https://www.crowdcast.io/ibmdeveloper
     * https://www.crowdcast.io/ibmdevelopereurope
